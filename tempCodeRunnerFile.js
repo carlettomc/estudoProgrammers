@@ -1,0 +1,1 @@
+ocorrencias[string[i]] = 1;
